@@ -1,0 +1,15 @@
+sort1 uses: Bubble
+
+How do you know?:
+Because sort1 is the fasted algorithm if you compare the running times  of the sorted 5000 lists.
+
+sort2 uses: Merge
+
+How do you know?:
+Outperforms sort3 when looking at the random texts.
+
+sort3 uses: Selection
+
+How do you know?:
+Its the only left :)
+When looking at the sorted lists it needs the longest times
